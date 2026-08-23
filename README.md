@@ -8,6 +8,8 @@ The **ImageJ Macro Language (IJM)** is a scripting language built into ImageJ. I
 
 Fiji is a **“batteries-included” distribution of ImageJ**, combining ImageJ with a large collection of plugins and tools for scientific image analysis.
 
+This workshop was written by Dr Nicholas Condon from the Institute for Molecular Bioscience, The University of Queensland.
+
 ## Workshop
 
 This workshop will introduce the fundamentals of Fiji macro programming, including:
@@ -19,8 +21,6 @@ This workshop will introduce the fundamentals of Fiji macro programming, includi
 * Arrays
 * Functions
 * Images and stacks
-* ROIs and the ROI Manager
-* Measurements and Results tables
 * Files and directories
 * Dialogs and user input
 * Debugging and useful built-in functions
