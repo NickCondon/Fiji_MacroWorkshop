@@ -47,3 +47,5 @@ Broader ImageJ documentation and tutorials.
 ---
 
 > **Tip:** When you're not sure how to write a command, use the **Macro Recorder**. Perform the action manually in Fiji and see what code it generates. Then modify the recorded code to make it reusable and automated.
+
+>**Tip2:** Use the [Script shell generator](https://github.com/NickCondon/Fiji_MacroWorkshop/blob/main/Exercises/Exercise6/Script_Shell_Generator_V2.ijm) to get started with all of file directory and main outline code already written. Just run the script, fill in the dialog, and copy the log window into a new script window.
